@@ -6,8 +6,8 @@ This version uses the release 0.2.1 of https://github.com/vega/voyager2 repo.
 
 ## Dependencies
 Install the following in your machine
-docker version 19.03.8
-docker-compose version 1.25.4
+* docker version 19.03.8
+* docker-compose version 1.25.4
 
 ## How to use
 * Checkout the repo with ```git clone git@github.com:ricardojdferreira/voyager2.git```
